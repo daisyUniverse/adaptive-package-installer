@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# Step 1. Distro detection code 
+# [ Possibly keep each distro check inside of each txt file and load them all and have them be responsible for setting the package list themselves? ]
+
+# Step 2. Declare package list variable from file depnding on distro
+
+# Step 3. Case statement with all package manager installation commands
